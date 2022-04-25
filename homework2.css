@@ -1,0 +1,70 @@
+h1{
+  color:darkblue;
+  font-size: 250%;
+  margin-top: -5px;
+}
+
+img{
+  height: 280px;
+  width: 280px;
+  margin-top: -20px;
+}
+
+body{
+    font-family: Helvetica
+}
+
+div.line{
+  margin-bottom:8px;
+  border: 1px solid darkblue;
+
+}
+
+p {
+  color:black; 
+} 
+
+p.blue{
+  color:darkblue;
+}
+
+div a{
+  color: darkblue;
+}
+
+div#flex-container{
+  display:flex;
+  align-items: flex-start;
+
+}
+
+div.flex-item{
+  margin-left:30px;
+  width: 25%;
+  font-size:100%;
+}
+
+div.flex-item-special{
+  margin-left: 50px;
+  font-size: 100%;
+  width: 70%;
+  border:1px solid darkblue;
+  background-color: lightgrey;
+}
+
+p.info{
+  color:white;
+  font-size: 85%;
+  border: 2px solid teal;
+  padding-left: 10px;
+  background-color: teal;
+}
+
+div.special{
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+span.color{
+  color:darkblue;
+}
